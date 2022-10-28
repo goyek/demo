@@ -6,20 +6,20 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/goyek/demo)](https://goreportcard.com/report/github.com/goyek/demo)
 [![Codecov](https://codecov.io/gh/goyek/demo/branch/main/graph/badge.svg)](https://codecov.io/gh/goyek/demo)
 
-⭐ `Star` this repository if you find it valuable and worth maintaining.
-
 ## Description
 
 This repository demonstrates how [`goyek`](https://github.com/goyek/goyek)
-can be used in big organization to reuse common pattern used in build pipelines.
+can be used in big organizations to reuse common patterns used in build pipelines.
 
 It uses [`github.com/goyek/workflow`](https://github.com/goyek/workflow)
-which is used as a reusable, yet customizable, build framework.
+which is used as an example reusable, yet customizable, build framework.
 
-It customizes `workflow` to:
+`demo` customizes it so that:
 
-- use `golangci-lint` instead of `go vet`,
-- run `misspell` during `test` stage.
+- it uses [`golangci-lint`](https://github.com/golangci/golangci-lint)
+  instead of `go vet`,
+- it adds [`misspell`](https://github.com/client9/misspell)
+  to the `test` stage.
 
 ## Build
 
