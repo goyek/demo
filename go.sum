@@ -273,8 +273,8 @@ github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod
 github.com/gostaticanalysis/testutil v0.4.0 h1:nhdCmubdmDF6VEatUNjgUZBJKWRqugoISdUv3PPQgHY=
 github.com/goyek/goyek/v2 v2.0.0-rc.6 h1:BKlxxMttQWVvebrgsIvS3arl2O0/eVkVlH4G28Sd3cM=
 github.com/goyek/goyek/v2 v2.0.0-rc.6/go.mod h1:qtHlK7t/dYs1Dw7mLXjEVmgE3nccNa7mQW/RmasOoYg=
-github.com/goyek/workflow v0.0.0-20221028170616-40991e686a26 h1:JPZfNgru9+9/rFu/AwlRIkZc+f5wpfYTQ6Ygu+vHDv8=
-github.com/goyek/workflow v0.0.0-20221028170616-40991e686a26/go.mod h1:yI2n67Xtmnt8jW0TQb2msrlm8iHgYc01FaXpbYRYi9A=
+github.com/goyek/workflow v0.0.0-20221028171856-07dd343f7953 h1:RkioAM8Xe/ZlED14b8uemmHOCWpNC+YJPIwozBXs+tk=
+github.com/goyek/workflow v0.0.0-20221028171856-07dd343f7953/go.mod h1:yI2n67Xtmnt8jW0TQb2msrlm8iHgYc01FaXpbYRYi9A=
 github.com/hashicorp/errwrap v1.0.0 h1:hLrqtEDnRye3+sgx6z4qVLNuviH3MR5aQ0ykNJa/UYA=
 github.com/hashicorp/errwrap v1.0.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
 github.com/hashicorp/go-multierror v1.1.1 h1:H5DkEtf6CXdFp0N0Em5UCwQpXMWke8IA0+lD48awMYo=
