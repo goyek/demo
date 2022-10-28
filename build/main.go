@@ -2,20 +2,15 @@
 package main
 
 import (
-	"os"
-
 	"github.com/goyek/goyek/v2"
-	"github.com/goyek/goyek/v2/middleware"
-)
-
-// Directories used in repository.
-const (
-	dirRoot  = "."
-	dirBuild = "build"
+	"github.com/goyek/workflow"
 )
 
 func main() {
-	goyek.Use(middleware.ReportStatus)
-	goyek.SetDefault(all)
-	goyek.Main(os.Args[1:])
+	goyek.Undefine(workflow.TaskGoVet)
+	workflow.StageTest.SetDeps(
+		append(goyek.Deps{spell, goLint}, workflow.StageTest.Deps()...), // add as the first task during test stage
+	)
+
+	workflow.Main()
 }
