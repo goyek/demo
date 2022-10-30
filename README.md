@@ -39,3 +39,7 @@ Using convenient PowerShell script:
 ```pwsh
 .\goyek.ps1
 ```
+
+Example output:
+
+![example output](https://user-images.githubusercontent.com/5067549/198875453-3aaa8dd4-81ad-44ef-bff8-eab6b249bbff.png)
