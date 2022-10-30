@@ -25,6 +25,7 @@ var spell = goyek.Define(goyek.Task{
 })
 
 func find(tf *goyek.TF, ext string) []string {
+	tf.Helper()
 	var files []string
 	err := filepath.WalkDir(".", func(path string, d fs.DirEntry, err error) error {
 		if err != nil {
