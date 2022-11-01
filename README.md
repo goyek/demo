@@ -42,4 +42,4 @@ Using convenient PowerShell script:
 
 Example output:
 
-![example output](https://user-images.githubusercontent.com/5067549/198875453-3aaa8dd4-81ad-44ef-bff8-eab6b249bbff.png)
+![example output](https://user-images.githubusercontent.com/5067549/199257929-03d7f960-6fd7-48d1-bcd2-704e95a39411.png)
