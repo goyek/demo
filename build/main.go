@@ -7,9 +7,9 @@ import (
 )
 
 func main() {
-	goyek.Undefine(workflow.TaskGoVet)
+	goyek.Undefine(workflow.TaskGoVet) // remove go vet (we prefer golangci-lint which is a superset)
 	workflow.StageTest.SetDeps(
-		append(goyek.Deps{spell, goLint}, workflow.StageTest.Deps()...), // add as the first task during test stage
+		append(goyek.Deps{spell, goLint}, workflow.StageTest.Deps()...), // add new tasks at the beginning of the test stage
 	)
 
 	workflow.Main()
