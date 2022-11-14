@@ -6,7 +6,7 @@ require (
 	github.com/client9/misspell v0.3.4
 	github.com/golangci/golangci-lint v1.50.1
 	github.com/goyek/goyek/v2 v2.0.0-rc.11
-	github.com/goyek/workflow v0.0.0-20221107094402-a87ab19ef7ad
+	github.com/goyek/workflow v0.0.0-20221114215912-cec36caba6b9
 	github.com/goyek/x v0.1.3
 	golang.org/x/tools v0.3.0
 )
