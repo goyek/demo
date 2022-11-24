@@ -5,9 +5,9 @@ go 1.19
 require (
 	github.com/client9/misspell v0.3.4
 	github.com/golangci/golangci-lint v1.50.1
-	github.com/goyek/goyek/v2 v2.0.0-rc.11
+	github.com/goyek/goyek/v2 v2.0.0-rc.12
 	github.com/goyek/workflow v0.0.0-20221114221810-84bd32997234
-	github.com/goyek/x v0.1.3
+	github.com/goyek/x v0.1.4
 	golang.org/x/tools v0.3.0
 )
 
