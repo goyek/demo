@@ -273,8 +273,8 @@ github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod
 github.com/gostaticanalysis/testutil v0.4.0 h1:nhdCmubdmDF6VEatUNjgUZBJKWRqugoISdUv3PPQgHY=
 github.com/goyek/goyek/v2 v2.0.0-rc.12 h1:y0cYeaQYOQTmOwpTb7mBijla2HfaOtuSksJO7NeLnOo=
 github.com/goyek/goyek/v2 v2.0.0-rc.12/go.mod h1:qtHlK7t/dYs1Dw7mLXjEVmgE3nccNa7mQW/RmasOoYg=
-github.com/goyek/workflow v0.0.0-20221114221810-84bd32997234 h1:4bc4NoVg6u3q0f71lzqgK1Mk59zMtWu5y/ERzRKJ26E=
-github.com/goyek/workflow v0.0.0-20221114221810-84bd32997234/go.mod h1:Jpdd3ekp2x6vNx7aC9tMWMUYqfMmMgfugcwGscko9EM=
+github.com/goyek/workflow v0.0.0-20221124223755-5921435959fd h1:5JlK5UedqV62DgmgjF9RoMf6AsbK0kvAS4sKf7oAeqQ=
+github.com/goyek/workflow v0.0.0-20221124223755-5921435959fd/go.mod h1:lX+wbsAhKIzl+AEKWiRqZFU7NvWJn09TRjBR2VBncQE=
 github.com/goyek/x v0.1.4 h1:MjU6U30kyY3XglMcrVM4qPlmZy/5R2sSs6ObXhkVOBM=
 github.com/goyek/x v0.1.4/go.mod h1:AArCrjHwuKC4xmvJVfnMURieKGSsZRM0kQU/h90d2iw=
 github.com/hashicorp/errwrap v1.0.0 h1:hLrqtEDnRye3+sgx6z4qVLNuviH3MR5aQ0ykNJa/UYA=
