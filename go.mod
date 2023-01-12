@@ -8,7 +8,7 @@ require (
 	github.com/goyek/goyek/v2 v2.0.0-rc.12
 	github.com/goyek/workflow v0.0.0-20221124223755-5921435959fd
 	github.com/goyek/x v0.1.4
-	golang.org/x/tools v0.4.0
+	golang.org/x/tools v0.5.0
 )
 
 require (
@@ -169,7 +169,7 @@ require (
 	golang.org/x/exp/typeparams v0.0.0-20220827204233-334a2380cb91 // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.3.0 // indirect
+	golang.org/x/sys v0.4.0 // indirect
 	golang.org/x/text v0.3.8 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
