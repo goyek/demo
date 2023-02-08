@@ -2,7 +2,7 @@
 
 [![go.mod](https://img.shields.io/github/go-mod/go-version/goyek/demo)](go.mod)
 [![LICENSE](https://img.shields.io/github/license/goyek/demo)](LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/goyek/demo/build)](https://github.com/goyek/demo/actions?query=workflow%3Abuild+branch%3Amain)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/goyek/demo/build.yml?branch=main)](https://github.com/goyek/demo/actions?query=workflow%3Abuild+branch%3Amain)
 [![Go Report Card](https://goreportcard.com/badge/github.com/goyek/demo)](https://goreportcard.com/report/github.com/goyek/demo)
 [![Codecov](https://codecov.io/gh/goyek/demo/branch/main/graph/badge.svg)](https://codecov.io/gh/goyek/demo)
 
