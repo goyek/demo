@@ -8,7 +8,7 @@ require (
 	github.com/goyek/goyek/v2 v2.0.0
 	github.com/goyek/workflow v0.0.0-20221124223755-5921435959fd
 	github.com/goyek/x v0.1.5
-	golang.org/x/tools v0.9.1
+	golang.org/x/tools v0.9.3
 )
 
 require (
