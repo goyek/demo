@@ -288,8 +288,8 @@ github.com/gostaticanalysis/nilerr v0.1.1 h1:ThE+hJP0fEp4zWLkWHWcRyI2Od0p7DlgYG3
 github.com/gostaticanalysis/nilerr v0.1.1/go.mod h1:wZYb6YI5YAxxq0i1+VJbY0s2YONW0HU0GPE3+5PWN4A=
 github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod h1:D+FIZ+7OahH3ePw/izIEeH5I06eKs1IKI4Xr64/Am3M=
 github.com/gostaticanalysis/testutil v0.4.0 h1:nhdCmubdmDF6VEatUNjgUZBJKWRqugoISdUv3PPQgHY=
-github.com/goyek/goyek/v2 v2.0.0 h1:/QAVDjTAsJ+caIoXNDSWs6jBHohh3CEzJ+vCcggjoWw=
-github.com/goyek/goyek/v2 v2.0.0/go.mod h1:qtHlK7t/dYs1Dw7mLXjEVmgE3nccNa7mQW/RmasOoYg=
+github.com/goyek/goyek/v2 v2.1.0 h1:As5r5j6XxfcJMADfgMYJdxsp1vy9IinT6AKPbCt6fi4=
+github.com/goyek/goyek/v2 v2.1.0/go.mod h1:qtHlK7t/dYs1Dw7mLXjEVmgE3nccNa7mQW/RmasOoYg=
 github.com/goyek/workflow v0.0.0-20221124223755-5921435959fd h1:5JlK5UedqV62DgmgjF9RoMf6AsbK0kvAS4sKf7oAeqQ=
 github.com/goyek/workflow v0.0.0-20221124223755-5921435959fd/go.mod h1:lX+wbsAhKIzl+AEKWiRqZFU7NvWJn09TRjBR2VBncQE=
 github.com/goyek/x v0.1.6 h1:8OgBd/hbczulz72zeLpFZKNTxAH/hBB0MVPAMl8IBIA=
