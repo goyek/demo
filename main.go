@@ -9,7 +9,8 @@ import "fmt"
 type Country int
 
 const (
-	Poland Country = iota // Poland represent the Republic of Poland.
+	// Poland represent the Republic of Poland.
+	Poland Country = iota
 )
 
 func main() {
