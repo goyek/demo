@@ -5,7 +5,7 @@ go 1.22
 require (
 	github.com/client9/misspell v0.3.4
 	github.com/golangci/golangci-lint v1.59.1
-	github.com/goyek/goyek/v2 v2.2.0
+	github.com/goyek/goyek/v2 v2.3.0
 	github.com/goyek/workflow v0.0.0-20240219095733-3b6111ec1eb5
 	github.com/goyek/x v0.2.0
 	golang.org/x/tools v0.24.0
